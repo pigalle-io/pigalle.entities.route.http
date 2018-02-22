@@ -38,4 +38,3 @@ describe('Create a instance of {HttpRouteEntity} using <factory> method', () => 
     (HttpRouteEntity.factory()).should.be.an.instanceOf(HttpRouteEntity)
   })
 })
-
