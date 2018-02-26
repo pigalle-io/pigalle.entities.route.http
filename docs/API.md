@@ -63,6 +63,6 @@ Create a new instance of {HttpRoute}.
 
 ***
 
-_Documentation generated on Thu, 22 Feb 2018 17:39:06 GMT_
+_Documentation generated on Mon, 26 Feb 2018 10:27:36 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**
